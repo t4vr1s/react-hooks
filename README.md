@@ -2,7 +2,19 @@
 
 ## Descripción
 
-Uso de los hooks más comunes en  **ReactJS. 
+Uso de los hooks más comunes en **ReactJS**. 
+  
+  1. useState
+
+  2. useEffect
+
+  3. useRef
+
+  4. useLayoutEffect
+
+  5. Usememo
+
+  6. CustomHooks
 
 En el directorio del proyecto, ejecuta el comando:
 
