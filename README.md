@@ -2,19 +2,21 @@
 
 ## Descripción
 
-Uso de los hooks más comunes en **ReactJS**. 
-  
-  1. useState
+Uso de los hooks más comunes en **ReactJS**.
 
-  2. useEffect
+1. useState
 
-  3. useRef
+2. useEffect
 
-  4. useLayoutEffect
+3. useRef
 
-  5. Usememo
+4. useLayoutEffect
 
-  6. CustomHooks
+5. Usememo
+
+6. CustomHooks
+
+7. useReducer
 
 En el directorio del proyecto, ejecuta el comando:
 
@@ -38,8 +40,8 @@ También verá cualquier error en la consola.
 
 test por agregar
 
-
 ### uso del linter standard
-ayuda con la corrección de errores y el formato del código 
+
+ayuda con la corrección de errores y el formato del código
 
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://standardjs.com/)
